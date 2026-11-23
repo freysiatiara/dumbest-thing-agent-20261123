@@ -3,7 +3,10 @@
 (u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec).
 
 Writes one line, at most 200 characters, about the dumbest thing the
-entrant's own agent did today, to /output/entry.txt.
+entrant's own agent did today, to /output/entry.txt. The line is written
+for the pairwise comedy-editor judge: concrete and believable (forty
+minutes debugging a crash), with the punch landing in the last few words
+(the "fix" was deleting the test that caught it).
 
 Stdlib only, deterministic, no network, no randomness.
 """
